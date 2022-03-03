@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>名车：性感金属的前世今生</title>
+		<style>
+		body{
+			color: coral;
+			background-color: beige;
+		}
+		div{
+			width: 100%;
+			height: 20px auto;
+		}
+		h1{
+			text-align: center;	
+		}
+		h2{
+			text-align: center;
+			color: antiquewhite;
+		}
+		p{
+			text-indent:2em;
+			line-height: 1.5;
+		}
+		img{
+			border: 1px solid #FAEBD7;
+			padding: 10px;
+			background-color: azure;
+			display: block;
+			margin: 50px auto;
+		}
+		</style>
+	</head>
+	<body>
+		<div>
+		<h1>TOP FAMOUS CARS</h1>
+<h2>名车：性感金属的前世今生</h2>
+<p>
+男人，一辈子总要有若干知己、生死相依的爱人和一辆好开的汽车。汽车就是男人打开世界的大门的遥控钥匙，是男人在不同时间的面孔和性格的切片。
+墨西哥的山路上，逃离肖申克监狱的蒂姆?罗宾斯驾驶的冷艳庞蒂亚克GTO,是男人的激扬与隐忍；黑客世界的街头，锋利入骨的凯迪拉克CTS遇上了基努?里维斯这样的忧郁型男，
+是男人的担当与勇敢；007系列电影中，阿斯顿?马丁让皮尔斯?布鲁斯南窃玉偷香如此圆满，是男人的至情与浪漫；无法忘怀的《教父》里，马龙?白兰度的世界被凯迪拉克一分两半，
+是男人的力量与威严......男人不止一面，越欣赏，越懂欣赏；汽车不止一面，它让男人敢梦想，敢追寻，让世界在极速中淡化如烟。
+</p>
+	<img src="img/lADPJwKtyAfQx_XNAjPNAu4_750_563.jpg_720x720g.jpg" >
+	<img src="img/lADPJx8ZvS4CMM_NAjPNAu4_750_563.jpg_720x720g.jpg" >
+	</div>
+	</body>
+</html>
